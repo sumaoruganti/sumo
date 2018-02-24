@@ -1,0 +1,10 @@
+step:- mkdir todaydemo
+step:- ls
+step:- git init
+step:- create text file in todaydemo
+step:- create new repository
+step:- clone....copy link and paste...git remote add origin "link"
+step:- git status(red color: suma.txt)
+step:- git add suma.txt(green color)
+step:- git commit -m "hello"
+step:- git push origin master(will get hello in github site)
